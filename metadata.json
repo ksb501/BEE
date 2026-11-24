@@ -1,0 +1,6 @@
+{
+  "name": "꿀벌실종사건의 전말 - 미로 탈출 게임",
+  "description": "초등학교 3학년 영양식생활 교육을 위한 꿀벌실종사건 인터렉티브 미로 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
